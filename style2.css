@@ -6,19 +6,19 @@
     text-decoration: none;
 }
 body{
-    background: url(bg.jpg) no-repeat center;
+    background: url(bg2.jpg) no-repeat center;
     background-size: cover;
     min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.top-right{
+.top-left{
     position: fixed;
     display: inline-block;
     z-index: 1;
     top: 40px;
-    right: 100px;
+    left: 100px;
     cursor: pointer;
     letter-spacing: 4px;
     text-decoration: none;
