@@ -23,6 +23,19 @@ body{
     letter-spacing: 4px;
     text-decoration: none;
     transition: 0.3s;
+    color: #fff;
+}
+.bottom-right{
+    position: fixed;
+    display: inline-block;
+    z-index: 1;
+    bottom: 40px;
+    right: 50px;
+    cursor: pointer;
+    letter-spacing: 4px;
+    text-decoration: none;
+    transition: 0.3s;
+    color: #00000070;
 }
 .profile-card{
     width: 420px;
